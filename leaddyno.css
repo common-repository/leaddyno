@@ -1,0 +1,75 @@
+#leaddyno-admin-settings td.ld_desc {
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 130%;
+	color: #777;
+}
+
+#leaddyno-admin-settings tr.ld_row {
+	padding: 5px 0 0 0;
+	margin: 5px 0 0 0;
+}
+
+#leaddyno-admin-settings tr.ld_row.even {
+	background-color: #f6f6f6;
+}
+
+#leaddyno-admin-settings div.inside ul {
+	margin-left: 20px;
+}
+
+#leaddyno-admin-settings div.inside ul li {
+	list-style: square;
+	line-height: 16px;
+}
+
+#leaddyno-admin-settings div.inside a {
+	text-decoration: none;
+}
+
+#leaddyno-admin-settings div.inside a:hover {
+	text-decoration: underline;
+}
+
+#leaddyno-admin-settings .text, #leaddyno-admin-settings .select {
+	width: 250px;
+}
+
+#leaddyno-admin-settings .postbox p {
+	text-align: left;
+	margin: 0 10px 10px 10px;
+	font-size: 13px;
+	line-height: 150%;
+}
+
+#leaddyno-admin-settings .postbox pre {
+	margin: 5px 10px;
+	padding: 4px;
+	background: lightyellow;
+}
+
+#leaddyno-admin-settings .side .postbox p, #leaddyno-admin-settings .side .postbox a {
+	font-size: 13px;
+}
+
+#leaddyno-admin-settings div.inside .button:hover, #leaddyno-admin-settings div.inside .button-primary:hover {
+	text-decoration: none;
+}
+
+#leaddyno-admin-settings .button, #leaddyno-admin-settings .button-primary {
+	margin-top: 10px;
+}
+
+#leaddyno-admin-settings strong.red {
+	color: green;
+	font-weight: bold;
+	font-size: 105%;
+}
+
+#leaddyno-admin-settings .postbox {
+	margin: 0 10px 10px 0;
+}
+
+#leaddyno-admin-settings .postbox .hndle {
+	cursor: default;
+}
